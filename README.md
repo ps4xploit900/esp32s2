@@ -1,4 +1,4 @@
-# Install HOST 9.00 for ESP32-S2
+# Install HOST 9.00 for ESP32-S2 , for flash .bin with NodeMCU-PyFlasher (Baud Rate): 921600
 
 
 Install HOST 9.00 for ESP32-S2 WIFI: PS4_XPLOIT

@@ -1,4 +1,4 @@
-# Install HOST 9.00 for ESP32-S2 # 
+# Install HOST 9.00 for ESP32-S2 # (v2)
 
 
 Install HOST 9.00 for ESP32-S2 WIFI: PS4_XPLOIT

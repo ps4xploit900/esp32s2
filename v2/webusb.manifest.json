@@ -1,0 +1,11 @@
+{
+  "name": "★ PS4 SERVER",
+  "version": "★ v2  ",
+  "home_assistant_domain": "esphome",
+  "builds": [
+    {
+      "chipFamily": "ESP32-S2",
+      "parts": [{ "path": "v2PS4XPLOIT900-ESP32S2.bin", "offset": 0 }]
+    }
+  ]
+}

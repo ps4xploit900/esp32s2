@@ -1,7 +1,7 @@
-# Installer HOST 9.00 for ESP32-S2 # (V4)
+# Installer HOST 9.00 for ESP32-S2 # (V4+)
 https://ps4xploit900.github.io/esp32s2/
 
-- 28/04/2023 ADD AUTO-JAILBREAK GoldHEN v.2.3
+- 10/05/2023 ADD AUTO GoldHEN 2.3+Orbis Toolbox
 
 Install HOST 9.00 for ESP32-S2 WIFI: PS4_XPLOIT
 

@@ -490,7 +490,7 @@ var e=function(t,i){return(e=Object.setPrototypeOf||{__proto__:[]}instanceof Arr
     --mdc-theme-primary: var(--improv-primary-color, #000000);
     --mdc-theme-on-primary: var(--improv-on-primary-color, #fff);
     --improv-danger-color: #db4437;
-    --improv-text-color: rgba(0, 0, 0, 0.6);
+    --improv-text-color: rgba(0, 0, 0, 0.9);
     --mdc-theme-text-primary-on-background: var(--improv-text-color);
     --mdc-dialog-content-ink-color: var(--improv-text-color);
     text-align: left;

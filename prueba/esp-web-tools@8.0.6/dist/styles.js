@@ -4,7 +4,7 @@ import { css } from "lit";
 // of the host website would influence the ESP Web Tools dialog.
 export const dialogStyles = css `
   :host {
-    --mdc-theme-primary: var(--improv-primary-color, #000000);
+    --mdc-theme-primary: var(--improv-primary-color, #0000000);
     --mdc-theme-on-primary: var(--improv-on-primary-color, #fff);
     --improv-danger-color: #db4437;
     --improv-text-color: rgba(0, 0, 0, 0.6);
@@ -23,7 +23,7 @@ export const dialogStyles = css `
   }
 
   a {
-    color: var(--improv-primary-color, #000000);
+    color: var(--improv-primary-color, #0000000);
   }
 
   a.button {

@@ -18,7 +18,7 @@ INSTALER ONLINE for ESP32 S2 HOST for PS4 9.00 Goldhen v2.4b16, v2.3 , v2.2.4  a
 --------  for flash .bin with NodeMCU-PyFlasher  --------
 
 
-Massive Thanks - Theflow0, SiSTRo, Znullptr, ChendoChap, Leeful, Sleirsgoevy,Specter, Stooged And Many More...
-Thanks to bishalqx980 for idea button auto-hen  
+Massive Thanks - Theflow0, SiSTRo, Znullptr, ChendoChap, Leeful, Sleirsgoevy,Specter, Stooged, abc And Many More...
+
 
 Website-Host by Mouuu

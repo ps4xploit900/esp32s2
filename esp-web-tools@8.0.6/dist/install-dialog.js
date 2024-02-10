@@ -22,7 +22,7 @@ import { sleep } from "./util/sleep";
 import { downloadManifest } from "./util/manifest";
 import { dialogStyles } from "./styles";
 const ERROR_ICON = "⚠️";
-const OK_ICON = "🎉";
+const OK_ICON = "✅​";
 export class EwtInstallDialog extends LitElement {
     constructor() {
         super(...arguments);

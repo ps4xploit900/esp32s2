@@ -1,7 +1,7 @@
 # Installer HOST 9.00 for ESP32-S2 # (V4+)
 https://ps4xploit900.github.io/esp32s2/
 
-- 02/02/2024 ADD GoldHEN 2.4b16.2
+- 09/02/2024 ADD GoldHEN 2.4b16.2 and New exploit [Psfree]
 - 25/05/2023 Add version selector GoldHEN AUTO
 - 20/06/2023 ADD GoldHEN 2.4b14
 
